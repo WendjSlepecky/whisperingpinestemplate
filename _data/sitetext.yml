@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to your next getaway
-    text: Whispering Pines
+    text: Whispering Pines Treehouses
     button: Book Now
     buttonlink: "https://airbnb.com"
 
@@ -27,9 +27,7 @@ en: &DEFAULT_EN
       - title: "Hot Tub"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-bath
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+
 
   portfolio:
     title: "Attractions"
@@ -77,7 +75,7 @@ en: &DEFAULT_EN
     people:
       - name: "Wendy"
         role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -95,7 +93,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - 
+    
   contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
