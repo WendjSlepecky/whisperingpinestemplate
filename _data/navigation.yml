@@ -13,10 +13,10 @@ en: &DEFAULT_EN
   nav:
     - title: "Amenities"
       section: services
-    - title: "Our Story"
-      section: about
     - title: "Attractions"
       section: portfolio
+    - title: "Our Story"
+      section: about
     - title: "Contact"
       section: contact
     - title: "FAQ"
