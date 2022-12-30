@@ -12,11 +12,11 @@
 en: &DEFAULT_EN
   nav:
     - title: "Amenities"
-      section: amenities
+      section: services
     - title: "Our Story"
-      section: ourstory
+      section: about
     - title: "Attractions"
-      section: attractions
+      section: portfolio
     - title: "Contact"
       section: contact
     - title: "FAQ"
