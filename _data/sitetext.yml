@@ -16,10 +16,10 @@ en: &DEFAULT_EN
     button: Book Now
     buttonlink: "https://airbnb.com"
 
-  amenities:
+  services:
     title: "Amenities"
     text: "Amenities"
-    section: amenities
+    section: services
     list:
       - title: "Full Kitchen"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -31,13 +31,13 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-  attractions:
+  portfolio:
     title: "Attractions"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close"
 
-  ourstory:
+  timeline:
     title: "Our Story"
     text: "Lorem ipsum timeline"
     section: timeline
