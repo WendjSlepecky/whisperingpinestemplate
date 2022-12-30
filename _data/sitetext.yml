@@ -27,7 +27,9 @@ en: &DEFAULT_EN
       - title: "Hot Tub"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-bath
-
+      - title: "Hot Tub"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-bath
 
   portfolio:
     title: "Attractions"
@@ -93,7 +95,16 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-    
+      - name: "Holly"
+        role: "Tech Guru"
+        image: assets/img/team/1.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
   contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
