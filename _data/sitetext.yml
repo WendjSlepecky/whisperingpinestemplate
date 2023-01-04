@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to a secluded getaway
+    title: Welcome to your next secluded getaway
     text: Whispering Pines Treehouses
     button: Book Now
     buttonlink: "https://airbnb.com"
