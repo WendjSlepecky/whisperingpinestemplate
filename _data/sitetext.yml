@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to your next getaway
+    title: Welcome to a secluded getaway
     text: Whispering Pines Treehouses
     button: Book Now
     buttonlink: "https://airbnb.com"
@@ -24,23 +24,23 @@ en: &DEFAULT_EN
       - title: "King Size Bed"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fa fa-bed
-      - title: "Hot Tub"
+      - title: "Outdoor Spaces"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-bath
       - title: "Full Kitchen"
-        desc: "Lorem ipsum dolorsit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Microwave, oven and electric cooktop with Kerig including complementary coffee, tea, and hot chocolate, toaster, blender"
         icon: fas fa-bath
 
   portfolio:
     title: "Attractions"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Wineries in Hermann and Augusta "
     section: portfolio
     closebutton: "Close"
 
   about:
-    title: "About Us"
+    title: "Our Story"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Having a love for the outdoors, we have hiked, camped and traveled many miles enjoying the tranquility and beauty of nature. As we shared our desires and dreams for the future, the idea of building treehouses in the woods to create a get-away from the busyness of life and to relax in nature actually became a reality. His construction knowledge, creativity and desire to build custom structures with my added sparkle at the end, brings you the beautiful Whispering Pines Treehouses. We invite you to follow us on Facebook or Instagram as we will soon reveal the next phase of our dream. We truly hope you take time to enjoy sitting on the patio while grilling your dinner near the pond or soak in the hot tub to take time to disconnect with the world and invest in yourself and your partner. 
     section: about
 
   about:
@@ -56,7 +56,7 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
+      - title: ""
         year: "2009-2011"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
@@ -119,7 +119,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
   contact:
     title: "Contact Us"
-    text: "Please email us and we will respond within 48 hours."
+    text: "Drop us a note, we LOVE to meet new people!"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
