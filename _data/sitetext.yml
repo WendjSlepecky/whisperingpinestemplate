@@ -21,7 +21,9 @@ en: &DEFAULT_EN
     text: "Amenities"
     section: services
     list:
-      - title: "King Size Bed"
+      - 
+     
+      title: "King Size Bed"
         desc: "Beautiful views of the spectaluar night sky from a luxurious memory foam mattress."
         icon: fa fa-bed
       - title: "Private Hot Tub"
@@ -29,6 +31,15 @@ en: &DEFAULT_EN
         icon: fas fa-bath
       - title: "Full Kitchen, Outdoor Hangouts, Stone Fireplace, Bathroom"
         desc: "Microwave, oven, electric cooktop, under-cabinet refrigerator and Keurig machine including complementary coffee, tea, and hot chocolate. Two large patios featuring a hot tub, propane grill, seating area and outdoor fire pit (firewood provided) for making memories and sharing s'mores. Relax and read a book, enjoy your favorite beverage, play a board game or just enjoy the views in front of a wall of windows and a towering stone fireplace. Sip a glass of wine and unwind in seperate soaking tub or wash your worries away under the gentle shower featuring dual rain heads."
+        icon: fas fa-bath
+        title: "Washer/Dryer"
+        desc: "Complimentary Tide Pods" 
+        icon: fa fa-bed
+      - title: "Bathroom"
+        desc: "Custom design separate soaking tub, tiled shower with dual rain shower, hairdryer, towels, complimentary make-up remover wipes. "
+        icon: fas fa-bath
+      - title: "Stone floor to ceiling fireplace"
+        desc: "Get cozy under a blanket in front of the fire to read a book or play a game. Take a few minutes to write about your stay in our journal."
         icon: fas fa-bath
 
   portfolio:
