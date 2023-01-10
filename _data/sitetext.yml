@@ -29,17 +29,17 @@ en: &DEFAULT_EN
       - title: "Private Hot Tub"
         desc: "Enjoy a relaxing soak in a private hot tub nestled in the trees overlooking the lake."
         icon: fas fa-bath
-      - title: "Full Kitchen, Outdoor Hangouts, Stone Fireplace, Bathroom"
-        desc: "Microwave, oven, electric cooktop, under-cabinet refrigerator and Keurig machine including complementary coffee, tea, and hot chocolate. Two large patios featuring a hot tub, propane grill, seating area and outdoor fire pit (firewood provided) for making memories and sharing s'mores. Relax and read a book, enjoy your favorite beverage, play a board game or just enjoy the views in front of a wall of windows and a towering stone fireplace. Sip a glass of wine and unwind in seperate soaking tub or wash your worries away under the gentle shower featuring dual rain heads."
+      - title: "Fully Furnished Kitchen"
+        desc: "Microwave, oven, electric cooktop, under-cabinet refrigerator and Keurig machine including complementary coffee, tea, and hot chocolate."
         icon: fas fa-bath
-        title: "Washer/Dryer"
-        desc: "Complimentary Tide Pods" 
+        title: "Outdoor Hangouts"
+        desc: "Two large patios featuring a hot tub, propane grill, seating area and outdoor fire pit (firewood provided) for making memories and sharing s'mores." 
         icon: fa fa-bed
       - title: "Bathroom"
-        desc: "Custom design separate soaking tub, tiled shower with dual rain shower, hairdryer, towels, complimentary make-up remover wipes. "
+        desc: "Sip a glass of wine and unwind in seperate soaking tub or wash your worries away under the gentle shower featuring dual rain heads. Complimentary make-up remover wipes, hairdryer, and towels included."
         icon: fas fa-bath
-      - title: "Stone floor to ceiling fireplace"
-        desc: "Get cozy under a blanket in front of the fire to read a book or play a game. Take a few minutes to write about your stay in our journal."
+      - title: "Stone Fireplace"
+        desc: "Relax and read a book, enjoy your favorite beverage, play a board game or just enjoy the views in front of a wall of windows and a towering stone fireplace."
         icon: fas fa-bath
 
   portfolio:
@@ -51,7 +51,7 @@ en: &DEFAULT_EN
   about:
     title: "Our Story"
     text: "our story"
-    body: "Having a love for the outdoors, we have hiked, camped and traveled many miles enjoying the tranquility and beauty of nature. As we shared our desires and dreams for the future, the idea of building treehouses in the woods to create a get-away from the busyness of life and to relax in nature actually became a reality. His construction knowledge, creativity and desire to build custom structures with my added sparkle at the end, brings you the beautiful Whispering Pines Treehouses. We invite you to follow us on Facebook or Instagram as we will soon reveal the next phase of our dream. We truly hope you take time to enjoy sitting on the patio while grilling your dinner near the pond or soak in the hot tub to take time to disconnect with the world and invest in yourself and your partner. 
+    body: "Having a love for the outdoors, we have hiked, camped and traveled many miles enjoying the tranquility and beauty of nature. As we shared our desires and dreams for the future, the idea of building treehouses in the woods to create a get-away from the busyness of life and to relax in nature actually became a reality. His construction knowledge, creativity and desire to build custom structures with my added sparkle at the end, brings you the beautiful Whispering Pines Treehouses. We invite you to follow us on Facebook or Instagram as we will soon reveal the next phase of our dream. We truly hope you take time to enjoy sitting on the patio while grilling your dinner near the pond or soak in the hot tub to take time to disconnect with the world and invest in yourself and your partner." 
     section: about
 
   about:
@@ -146,11 +146,11 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
+      - url: https://instagram.com/whisperingpinestreehouses
         icon: "fab fa-twitter"
       - url: https://facebook.com/whisperingpinestreehouses
         icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://tiktok.com/whisperingpinestreehouses
         icon: "fab fa-linkedin-in"
       - url: https://github.com/raviriley/agency-jekyll-theme
         icon: "fab fa-github"
