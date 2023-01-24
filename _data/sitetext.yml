@@ -37,7 +37,7 @@ en: &DEFAULT_EN
         desc: "Two large patios featuring a hot tub, propane grill, seating area and outdoor fire pit (firewood provided) for making memories and sharing s'mores."
         icon: fa fa-tree
       - title: "Luxury Bathroom"
-        desc: "Sip a glass of wine and unwind in a separate soaking tub or wash your worries away under the gentle shower featuring dual rain heads. Complimentary make-up remover wipes, hairdryer, and towels included."
+        desc: "Sip a glass of wine and unwind in a separate soaking tub or wash your worries away under the gentle shower featuring dual rain heads. Complimentary make-up remover wipes, hairdryer, bath robes and towels included."
         icon: fas fa-bath
       - title: "Stone Fireplace"
         desc: "Relax and read a book, enjoy your favorite beverage, play a board game or just enjoy the views in front of a wall of windows and a towering stone fireplace."
@@ -63,29 +63,29 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Our Story"
-    text: "Lorem ipsum timeline"
+    text: ""
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: ""
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "An Idea was Born"
+        year: "2020-2021"
+        desc: "Through many conversations about our love for the outdoors and creating beautiful, welcoming spaces to bring people together, we began to explore the idea of building a peaceful place to escape the demands of daily life and reconnect with yourself and those you love while enjoying nature's beauty."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "The search is on...."
+        year: "Winter 2021"
+        desc: "With the plan complete, we began to search for the perfect setting to plant our idea. Close enough for a quick getaway, yet far enough to escape the demands of the daily grind, we searched for the perfect place in the forest to build our dream."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Found It!"
+        year: "Spring 2022"
+        desc: "After much searching, on a cold rainy day we found the most beautiful piece of property with tree covered ridges overlooking scenic valleys with tall pines whispering in the wind. Shortly thereafter, we were fortunate enough to make it our own."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Building all fall"
+        year: "Fall 2022"
+        desc: "After spending all summer planning and preparing, we were so excited to break ground on our idyllic cabin nestled in the tall trees overlooking a private lake. As our idea came to life, our anticipation grew to be able to share this perfect escape with others to enjoy. Completed in the Winter of 2023, our unique oasis opened its doors for you to experiece for yourself."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
