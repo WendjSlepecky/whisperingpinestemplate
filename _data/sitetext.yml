@@ -45,7 +45,22 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Attractions"
-    text: "Wineries in Hermann and Augusta "
+    text: "Explore "
+    section: portfolio
+    closebutton: "Close"
+    text: "Hiking"
+    section: portfolio
+    closebutton: "Close"
+    text: "Relax"
+    section: portfolio
+    closebutton: "Close"
+    text: "Shopping"
+    section: portfolio
+    closebutton: "Close"
+    text: "Explore "
+    section: portfolio
+    closebutton: "Close"
+    text: "Explore "
     section: portfolio
     closebutton: "Close"
 
