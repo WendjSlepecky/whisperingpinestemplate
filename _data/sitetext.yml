@@ -57,10 +57,10 @@ en: &DEFAULT_EN
     text: "Shopping"
     section: portfolio
     closebutton: "Close"
-    text: "Explore "
+    text: "Seasonal Attractions "
     section: portfolio
     closebutton: "Close"
-    text: "Explore "
+    text: "Dining"
     section: portfolio
     closebutton: "Close"
 
